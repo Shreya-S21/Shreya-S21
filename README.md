@@ -11,7 +11,13 @@ Hi 👋 I’m Shreya. S<br><br>- 🎓 AI & Machine Learning student  <br>- 🌱 
 ![](https://github-readme-stats.vercel.app/api?username=Shreya-S21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shreya-S21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-S21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Shreya-S21&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Shreya-S21&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-S21&layout=compact&theme=tokyonight)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shreya-S21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
