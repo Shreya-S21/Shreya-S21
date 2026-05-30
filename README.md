@@ -16,6 +16,7 @@ Hi 👋 I’m Shreya. S<br><br>- 🎓 AI & Machine Learning student  <br>- 🌱 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-S21&layout=compact&theme=tokyonight)
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Shreya-S21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
