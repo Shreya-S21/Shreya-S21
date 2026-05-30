@@ -15,12 +15,7 @@ Hi 👋 I’m Shreya. S<br><br>- 🎓 AI & Machine Learning student  <br>- 🌱 
 ![](https://streak-stats.demolab.com?user=Shreya-S21&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-S21&layout=compact&theme=tokyonight)
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Shreya-S21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Shreya-S21&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
